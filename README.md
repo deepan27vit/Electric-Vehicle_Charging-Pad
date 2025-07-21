@@ -5,4 +5,4 @@ By researching from famous journals
 -"International Journal of Innovative Research in Electrical, Electronics, Instrumentation and Control Engineering "
 and
 -" e-Prime - Advances in Electrical  
-Engineering, Electronics and Energy"
+Engineering, Electronics and Energy" this two are the international level journals this helps me lots to complete my project.The files are attached below.

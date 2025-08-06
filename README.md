@@ -6,4 +6,3 @@ By researching from famous journals
 and
 -" e-Prime - Advances in Electrical  
 Engineering, Electronics and Energy" this two are the international level journals this helps me lots to complete my project.The files are attached below.
-////
